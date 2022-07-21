@@ -1,0 +1,1 @@
+https://ece.uwaterloo.ca/~z70wang/research/nr_jpeg_quality/index.html
